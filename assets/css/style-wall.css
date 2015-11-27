@@ -1,0 +1,23 @@
+
+/* BASIC THEME CONFIGURATION */
+
+body {
+	background-color: #DDD;
+}
+
+/* ----------------------------- */
+
+/*White Panel */
+.write-panel{
+	color: #959595;
+}
+
+.white-panel .white-header{
+	color: #959595;
+}
+
+.white-panel .small{
+	color: #ACB2BC;
+}
+
+/* ----------------------------- */
